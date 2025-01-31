@@ -43,3 +43,9 @@ searchInput.addEventListener("input", (e) => {
 themeChanger.addEventListener("click", () => {
   document.body.classList.toggle("dark");
 });
+
+// function generate(countries) {
+//   countries.forEach((c, i) => {
+//     console.log(i, c.capital ? c.capital[0] : "no capital");
+//   });
+// }
