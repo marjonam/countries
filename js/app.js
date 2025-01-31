@@ -1,5 +1,4 @@
 const countriesContainer = document.querySelector(".countries-container");
-const filterByRegion = document.querySelector(".filter-by-region");
 const searchInput = document.querySelector(".search-container input");
 const themeChanger = document.querySelector(".theme-changer");
 let allCountriesData;
